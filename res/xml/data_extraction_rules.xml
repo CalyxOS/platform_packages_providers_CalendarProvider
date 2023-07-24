@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  SPDX-FileCopyrightText: 2023 The Calyx Institute
+  SPDX-License-Identifier: Apache-2.0
+  -->
+<data-extraction-rules>
+    <cloud-backup>
+        <include domain="database" path="calendar.db" />
+        <include domain="sharedpref" path="CalendarUpgradeReceiver.xml" />
+    </cloud-backup>
+    <device-transfer>
+        <include domain="database" path="calendar.db" />
+        <include domain="sharedpref" path="CalendarUpgradeReceiver.xml" />
+    </device-transfer>
+</data-extraction-rules>
