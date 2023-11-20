@@ -16,6 +16,23 @@
       "message": "By current design of Seedvault, I believe this gets bundled into the \"Device settings\" toggle, so users can\u0027t turn off calendar backup individually, unlike with e.g. Local contacts.",
       "revId": "6604508dd3beeba39f7e6c1e8d7cc406a37c44df",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7547c628_751b1329",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-11-20T20:21:02Z",
+      "side": 1,
+      "message": "Have not tested reminders.\n\nNot sure if anything special needs to be done to schedule alarms for calendar reminders, similar to with the Clock app for alarms.",
+      "revId": "6604508dd3beeba39f7e6c1e8d7cc406a37c44df",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
