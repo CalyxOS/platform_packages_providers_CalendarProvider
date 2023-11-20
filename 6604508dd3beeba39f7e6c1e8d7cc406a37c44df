@@ -51,6 +51,24 @@
       "parentUuid": "2e019d11_7d69032e",
       "revId": "6604508dd3beeba39f7e6c1e8d7cc406a37c44df",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2ca40ecf_2e7609e8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-11-20T20:29:22Z",
+      "side": 1,
+      "message": "Unfortunately no, it\u0027s a separate issue. System apps aren\u0027t listed for individual exclusion at all, not even Chromium.",
+      "parentUuid": "d8168d73_472d24ae",
+      "revId": "6604508dd3beeba39f7e6c1e8d7cc406a37c44df",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
