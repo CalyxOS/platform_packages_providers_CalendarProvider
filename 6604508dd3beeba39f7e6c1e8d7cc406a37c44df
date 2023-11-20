@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2e019d11_7d69032e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-11-20T20:20:22Z",
+      "side": 1,
+      "message": "By current design of Seedvault, I believe this gets bundled into the \"Device settings\" toggle, so users can\u0027t turn off calendar backup individually, unlike with e.g. Local contacts.",
+      "revId": "6604508dd3beeba39f7e6c1e8d7cc406a37c44df",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
