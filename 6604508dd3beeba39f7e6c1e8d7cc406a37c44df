@@ -69,6 +69,24 @@
       "parentUuid": "d8168d73_472d24ae",
       "revId": "6604508dd3beeba39f7e6c1e8d7cc406a37c44df",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "635f92d0_0814533b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-11-21T14:56:34Z",
+      "side": 1,
+      "message": "We could fix specifically this issue in Seedvault by adding a \"Local calendars\" toggle that controls com.android.providers.calendar and only appears if it allows backup, so that it wouldn\u0027t be misleading for devices that don\u0027t have this change. Not sure if that\u0027s too much of a can of worms, so I won\u0027t start on it now, but I wanted to leave this comment at least.",
+      "parentUuid": "2ca40ecf_2e7609e8",
+      "revId": "6604508dd3beeba39f7e6c1e8d7cc406a37c44df",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
