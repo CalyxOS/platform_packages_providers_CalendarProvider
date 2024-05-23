@@ -87,6 +87,24 @@
       "parentUuid": "2ca40ecf_2e7609e8",
       "revId": "6604508dd3beeba39f7e6c1e8d7cc406a37c44df",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dbc4138b_7a0eca53",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-05-23T11:37:07Z",
+      "side": 1,
+      "message": "Now would be a good time to do that, I think.",
+      "parentUuid": "635f92d0_0814533b",
+      "revId": "6604508dd3beeba39f7e6c1e8d7cc406a37c44df",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
