@@ -105,6 +105,24 @@
       "parentUuid": "635f92d0_0814533b",
       "revId": "6604508dd3beeba39f7e6c1e8d7cc406a37c44df",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e3c81141_9b57ae7c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-05-23T13:54:04Z",
+      "side": 1,
+      "message": "Upstream issue: https://github.com/seedvault-app/seedvault/issues/142\n\nThey had been thinking of doing this with a dedicated app like is done for local contacts.\n\nFor this approach, one current concern is that maybe this provider would include synchronized calendars and could cause duplication or other unwanted effects. I\u0027ll check that.",
+      "parentUuid": "dbc4138b_7a0eca53",
+      "revId": "6604508dd3beeba39f7e6c1e8d7cc406a37c44df",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
