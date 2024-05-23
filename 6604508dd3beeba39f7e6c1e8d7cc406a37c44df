@@ -123,6 +123,23 @@
       "parentUuid": "dbc4138b_7a0eca53",
       "revId": "6604508dd3beeba39f7e6c1e8d7cc406a37c44df",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c006b507_b95ed593",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2024-05-23T19:16:15Z",
+      "side": 1,
+      "message": "Needs to test calendars from sync accounts. do restored events from those calendars get duplicated after restore and after re-adding the sync account?",
+      "revId": "6604508dd3beeba39f7e6c1e8d7cc406a37c44df",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
