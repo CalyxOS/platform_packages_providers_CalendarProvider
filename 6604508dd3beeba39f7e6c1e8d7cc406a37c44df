@@ -140,6 +140,24 @@
       "message": "Needs to test calendars from sync accounts. do restored events from those calendars get duplicated after restore and after re-adding the sync account?",
       "revId": "6604508dd3beeba39f7e6c1e8d7cc406a37c44df",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "124c1312_3d11268c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-08-12T16:39:14Z",
+      "side": 1,
+      "message": "They do not get duplicated, but they *are* in the database. To me, that is a dealbreaker for this approach.\n\nhttps://gitlab.com/CalyxOS/calyxos/-/issues/1372#note_2041597149",
+      "parentUuid": "c006b507_b95ed593",
+      "revId": "6604508dd3beeba39f7e6c1e8d7cc406a37c44df",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
