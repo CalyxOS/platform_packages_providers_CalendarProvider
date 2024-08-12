@@ -158,6 +158,42 @@
       "parentUuid": "c006b507_b95ed593",
       "revId": "6604508dd3beeba39f7e6c1e8d7cc406a37c44df",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "32a1a23a_29ff648d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-08-12T19:56:50Z",
+      "side": 1,
+      "message": "As mentioned in [another comment](https://review.calyxos.org/c/CalyxOS/platform_packages_providers_CalendarProvider/+/23247/comments/c006b507_b95ed593), synchronized calendar details and their events *are* included in the database.",
+      "parentUuid": "e3c81141_9b57ae7c",
+      "revId": "6604508dd3beeba39f7e6c1e8d7cc406a37c44df",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fca4f6e2_4bcfa238",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2024-08-12T19:56:50Z",
+      "side": 1,
+      "message": "@chirayu@calyxinstitute.org, @t@grobox.de, any thoughts on what\u0027s next? Is it worth trying to implement a backup agent for this, or would it be better to handle it somehow in Seedvault similarly to the local contacts support?",
+      "parentUuid": "124c1312_3d11268c",
+      "revId": "6604508dd3beeba39f7e6c1e8d7cc406a37c44df",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
